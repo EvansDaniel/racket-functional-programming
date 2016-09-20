@@ -1,3 +1,3 @@
 # racket-functional-programming
 
-Experimenting with programming in the racket language with various coding problems 
+Solutions to homework problems in programming languages class (CSCI 376, 2016) at The University of the South
